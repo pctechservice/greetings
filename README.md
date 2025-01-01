@@ -4,7 +4,9 @@ Este paquete proporciona una forma simple de obtener saludos personalizados en G
 Instalación
 Ejecuta el siguiente comando para instalar el paquete:
 
+```bash
 go get -u github.com/alexroel/greetings
+```
 
 
 Uso
